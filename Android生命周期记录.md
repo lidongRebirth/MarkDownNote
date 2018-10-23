@@ -2,6 +2,8 @@
 
 该测试应用共有`MainActivity`、`TwoActivity`、`OneFragment`、`TwoFragment`四个，两个碎片是呈现在`TwoActivity`中的一个`LinearLayout`布局中的
 
+[Demo链接](https://github.com/myfittinglife/MarkDown-Resource/blob/master/%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9FDemo.apk)
+
 行为一：打开应用
 
 
