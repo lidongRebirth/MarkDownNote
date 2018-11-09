@@ -373,7 +373,9 @@ public String jsonTrans(String dataStr){
 
 具体参考[文章](https://blog.csdn.net/cly19940419/article/details/79269603)
 
+[博客](https://blog.csdn.net/wapchief/article/details/78229097)
 
+[可以借鉴的文章](https://blog.csdn.net/halaoda/article/details/78406896)
 
 
 
