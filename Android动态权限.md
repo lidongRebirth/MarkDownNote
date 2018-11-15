@@ -15,6 +15,8 @@
 
 **1、运行权限申请时使用的是权限名，用户一旦授权，则该权限所在权限组中的所有权限都会被授权（8.0之后发生更改）**
 
+**8.0版本后需要一个组内的权限全部需要动态申请，但在实际应用中，申请了权限还不行，还必须在设置中开启位置服务才能定位，什么原因？（高德地图百度地图都这样，不知道为何）**
+
 [官方说明（翻墙）](https://developer.android.google.cn/about/versions/oreo/android-8.0-changes#rmp)
 
 [文章](https://blog.csdn.net/jamin0107/article/details/78983659)
