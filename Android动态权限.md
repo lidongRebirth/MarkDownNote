@@ -13,7 +13,13 @@
 |STORAGE|READ_EXTERNAL_STORAGE		WRITE_EXTERNAL_STORAGE|
 ##注意事项
 
-**1、运行权限申请时使用的是权限名，用户一旦授权，则该权限所在权限组中的所有权限都会被授权**
+**1、运行权限申请时使用的是权限名，用户一旦授权，则该权限所在权限组中的所有权限都会被授权（8.0之后发生更改）**
+
+[官方说明（翻墙）](https://developer.android.google.cn/about/versions/oreo/android-8.0-changes#rmp)
+
+[文章](https://blog.csdn.net/jamin0107/article/details/78983659)
+
+
 
 **2、Android6.0以后，这些权限不仅<u>要保留原来的静态注册</u>，还需要进行额外的动态权限申请**
 
