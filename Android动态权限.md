@@ -127,3 +127,5 @@ if(verifyReadAndWritePermissions){	//true，权限已申请
 
 
 
+
+

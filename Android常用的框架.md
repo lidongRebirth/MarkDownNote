@@ -25,9 +25,14 @@
 
 * [城市索引含定位和热门城市](https://github.com/MirZou/CityProject) 该项目存在重庆所在字母错误问题     [博客](https://blog.csdn.net/qq_37840482/article/details/78791428)
 
-* [Matisse](https://github.com/zhihu/Matisse)	知乎的图片选择框架   [博客](https://blog.csdn.net/qiaoshi96_bk/article/details/76164913)
+   [Matisse](https://github.com/zhihu/Matisse)	知乎的图片选择框架   [博客](https://blog.csdn.net/qiaoshi96_bk/article/details/76164913)
 
 * [JCameraView](https://github.com/CJT2325/CameraView) 拍照录像框架
 
 * [ButterKnife](https://github.com/JakeWharton/butterknife)   [博客](https://blog.csdn.net/u012532631/article/details/77196426)
+
+   ```java
+    implementation 'com.jakewharton:butterknife:9.0.0-rc1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:9.0.0-rc1'
+   ```
 
