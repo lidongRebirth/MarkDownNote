@@ -96,6 +96,8 @@ targetSdkVersion 为26或以上，android8.0及以上需要适配
 
 [Android 8.0 升级笔记（适配图片、通知栏、ContentProvider、Receiver）](https://blog.csdn.net/moxiouhao/article/details/79209054)
 
+[Android自定义通知栏显示](https://blog.csdn.net/wangzunkuan/article/details/79497874)
+
 #### 7、小点记忆
 
 * 小图标只能使用纯alpha图层的图片进行设置
